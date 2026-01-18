@@ -102,6 +102,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 For questions about these materials or the study:  
 Dr. Corey Basch: baschc@wpunj.edu
+Dr. Ern Jacques: ejacques1@york.cuny.edu
 
 ## Related Resources
 
