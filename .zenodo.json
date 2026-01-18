@@ -1,0 +1,62 @@
+{
+  "title": "Evaluating LLM-Generated Informed Consent: FDA-Aligned Audit Framework for AYA CNS Cancer Clinical Trials",
+  "description": "This repository contains complete materials for replicating a structured audit of large language model (LLM) responses to informed consent questions about clinical trials for adolescent and young adult (AYA) patients with central nervous system (CNS) tumors. The study evaluates how completely publicly available AI tools cover FDA-mandated informed consent elements. Includes standardized prompts, FDA-aligned evaluation checklist, scored response data, data collection protocol, and analysis code. Key finding: AI-generated informed consent responses showed substantial variability in completeness (median score: 33/35; range: 22-35), with no response achieving full coverage of all FDA-aligned consent elements.",
+  "creators": [
+    {
+      "name": "Basch, Corey",
+      "affiliation": "William Paterson University"
+    },
+    {
+      "name": "Jacques, Erin",
+      "affiliation": "York College, City University of New York"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Datuowei, Erela",
+      "affiliation": "Teachers College, Columbia University",
+      "type": "Other"
+    },
+    {
+      "name": "Chapa, Griselda",
+      "affiliation": "York College, City University of New York",
+      "type": "Other"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "artificial intelligence",
+    "large language models",
+    "informed consent",
+    "clinical trials",
+    "health communication",
+    "patient safety",
+    "FDA regulation",
+    "adolescent and young adult",
+    "cancer",
+    "central nervous system tumors",
+    "AI evaluation",
+    "health information quality"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ejacques1/CNS-LLM-Informed-Consent",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "FDA. (2023). Informed consent guidance for clinical investigations (21 CFR §50.25)",
+    "Price, M., et al. (2024). CBTRUS statistical report: adolescent and young adult primary brain and other central nervous system tumors. Neuro-Oncology, 26(Suppl. 3), iii1–iii53",
+    "Wu, J., et al. (2024). Adolescents and young adults with cancer: CNS tumors. J. Clin. Oncol., 42, 686–695"
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-01-18"
+}
