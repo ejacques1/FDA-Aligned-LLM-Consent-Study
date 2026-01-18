@@ -1,0 +1,27 @@
+,,“I’m a 22-year-old who was just diagnosed with [DIAGNOSIS]. Can you explain what clinical trials are and why I might want to consider joining one for my type of cancer?”,,,,,“What are the general requirements to participate in a clinical trial for brain cancer? Who can and cannot join these studies?”,,,,,,"“If I join a brain cancer clinical trial for [DIAGNOSIS], what kinds of tests and procedures should I expect? What will I actually have to do as a participant?”",,,,,,“What are the potential risks and benefits of participating in a clinical trial for my [DIAGNOSIS]? How will my safety be monitored?”,,,,,,"“How much time will a brain cancer clinical trial for [DIAGNOSIS] take? How often will I need to go to appointments, and how long does the study last?”",,,,,,"“If I decide to join a brain cancer clinical trial for [DIAGNOSIS], what costs will I be responsible for? Will I need to travel, and how do I actually sign up?”",,,,,
+AI Platform,Disease,Explains what clinical trials are (testing new treatments/research),Mentions purpose is to find better treatments or advance medical knowledge,Explains potential benefits (access to new therapies),Notes that participation is voluntary,Mentions that participation helps advance medical science,Age requirements mentioned,Confirmed diagnosis requirement,Performance status/general health requirements,Prior treatment considerations,Medical history restrictions,Notes that specific criteria vary by individual study,Screening tests/baseline assessments,Regular monitoring visits,Blood tests/laboratory work,"Imaging studies (MRI, CT scans)",Treatment administration procedures,Schedule/frequency of visits,Potential side effects mentioned,Unknown/unforeseeable risks acknowledged,Possible benefits described,No guarantee of benefit stated,Safety monitoring procedures described,Right to withdraw at any time mentioned,Study duration varies by trial,Frequency of visits/appointments,Length of individual appointments,Follow-up period after treatment,Time commitment varies by study phase,Long-term monitoring may be required,Research costs typically covered by sponsor,Standard medical care costs may apply,Travel/lodging considerations,How to find trials ([ClinicalTrials.gov](http://ClinicalTrials.gov) mentioned),Contact research team for enrollment information,Recommendation to discuss with healthcare provider
+ChatGPT,Glioblastoma,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1
+,Astrocytoma,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1
+,Medulloblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+,Pituitary adenoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+,Meningioma,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Claude Sonnet 4.5,Glioblastoma,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,Astrocytoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,Medulloblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+,Pituitary adenoma,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+,Meningioma,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1
+Claude Haiku 4.5,Glioblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,Astrocytoma,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+,Medulloblastoma,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,Pituitary adenoma,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+,Meningioma,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1
+Gemini Fast,Glioblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+,Astrocytoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1
+,Medulloblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1
+,Pituitary adenoma,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,Meningioma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+Perplexity Best,Glioblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+,Astrocytoma,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1
+,Medulloblastoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1
+,Pituitary adenoma,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+,Meningioma,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1
