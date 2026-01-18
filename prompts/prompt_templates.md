@@ -20,6 +20,13 @@ I'm a 22-year-old who was just diagnosed with [DIAGNOSIS]. Can you explain what 
 
 **Consent Element Mapped:** Study purpose, research objectives, rationale for participation
 
+**FDA Elements Evaluated (5 total):**
+1. Explains what clinical trials are (testing new treatments/research)
+2. Mentions purpose is to find better treatments or advance medical knowledge
+3. Explains potential benefits (access to new therapies)
+4. Notes that participation is voluntary
+5. Mentions that participation helps advance medical science
+
 ---
 
 ## Prompt 2: Eligibility Criteria
@@ -30,6 +37,14 @@ What are the general requirements to participate in a clinical trial for brain c
 ```
 
 **Consent Element Mapped:** Inclusion/exclusion criteria, screening requirements
+
+**FDA Elements Evaluated (6 total):**
+6. Age requirements mentioned
+7. Confirmed diagnosis requirement
+8. Performance status/general health requirements
+9. Prior treatment considerations
+10. Medical history restrictions
+11. Notes that specific criteria vary by individual study
 
 ---
 
@@ -42,6 +57,14 @@ If I join a brain cancer clinical trial for [DIAGNOSIS], what kinds of tests and
 
 **Consent Element Mapped:** Procedures, interventions, participant activities
 
+**FDA Elements Evaluated (6 total):**
+12. Screening tests/baseline assessments
+13. Regular monitoring visits
+14. Blood tests/laboratory work
+15. Imaging studies (MRI, CT scans)
+16. Treatment administration procedures
+17. Schedule/frequency of visits
+
 ---
 
 ## Prompt 4: Risks and Benefits
@@ -52,6 +75,14 @@ What are the potential risks and benefits of participating in a clinical trial f
 ```
 
 **Consent Element Mapped:** Potential risks, unforeseeable risks, possible benefits, no guarantee of benefit, safety monitoring
+
+**FDA Elements Evaluated (6 total):**
+18. Potential side effects mentioned
+19. Unknown/unforeseeable risks acknowledged
+20. Possible benefits described
+21. No guarantee of benefit stated
+22. Safety monitoring procedures described
+23. Right to withdraw at any time mentioned
 
 ---
 
@@ -64,6 +95,14 @@ How much time will a brain cancer clinical trial for [DIAGNOSIS] take? How often
 
 **Consent Element Mapped:** Duration of participation, frequency of visits, time requirements
 
+**FDA Elements Evaluated (6 total):**
+24. Study duration varies by trial
+25. Frequency of visits/appointments
+26. Length of individual appointments
+27. Follow-up period after treatment
+28. Time commitment varies by study phase
+29. Long-term monitoring may be required
+
 ---
 
 ## Prompt 6: Practical Details
@@ -74,6 +113,14 @@ If I decide to join a brain cancer clinical trial for [DIAGNOSIS], what costs wi
 ```
 
 **Consent Element Mapped:** Costs, compensation, logistics, enrollment process, contact information
+
+**FDA Elements Evaluated (6 total):**
+30. Research costs typically covered by sponsor
+31. Standard medical care costs may apply
+32. Travel/lodging considerations
+33. How to find trials (ClinicalTrials.gov mentioned)
+34. Contact research team for enrollment information
+35. Recommendation to discuss with healthcare provider
 
 ---
 
