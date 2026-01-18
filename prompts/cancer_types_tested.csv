@@ -1,0 +1,6 @@
+Cancer_Type,WHO_Grade,Classification,Typical_Prognosis,AYA_Prevalence,Selection_Rationale
+Glioblastoma,IV,Malignant diffuse glioma,Poor (median survival 15-18 months),"Moderate (represents ~10% of AYA CNS tumors)","Most aggressive malignant glioma; high clinical complexity"
+Astrocytoma,II-III,Diffuse glioma,Variable (depends on grade and molecular features),"Common (represents ~15-20% of AYA CNS tumors)","Broad spectrum of malignancy; IDH-mutant and wildtype variants"
+Medulloblastoma,IV,Embryonal tumor,Variable (depends on molecular subgroup; 5-year survival 60-80%),"Moderate (more common in children, but occurs in AYAs)","Bridges pediatric/adult neuro-oncology; requires multimodal treatment"
+Meningioma,I (typically),Meningeal tumor,Excellent (5-year survival >90% for Grade I),"Very common (represents ~30% of AYA CNS tumors)","Most common benign CNS tumor in AYAs; typically low-risk"
+Pituitary_adenoma,I (typically),Sellar region tumor,Excellent (usually curable with treatment),"Very common (represents ~20-25% of AYA CNS tumors)","Benign hormone-secreting tumor; excellent prognosis"
