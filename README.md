@@ -1,6 +1,6 @@
 # Evaluating LLM-Generated Informed Consent: FDA-Aligned Audit Framework for AYA CNS Cancer Clinical Trials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18294050.svg)](https://doi.org/10.5281/zenodo.18294050)
 
 ## Overview
 
@@ -73,7 +73,7 @@ This repository contains materials for replicating a structured audit of large l
 If you use these materials, please cite:
 
 **Repository:**
-> Basch, C., & Jacques, E. (2026). Evaluating LLM-Generated Informed Consent: FDA-Aligned Audit Framework for AYA CNS Cancer Clinical Trials [Data set]. Zenodo. https://doi.org/10.5281/zenodo.PENDING
+> Basch, C., & Jacques, E. (2026). Evaluating LLM-Generated Informed Consent: FDA-Aligned Audit Framework for AYA CNS Cancer Clinical Trials [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18294050
 
 **Manuscript:**
 > [Full paper citation will be added upon publication]
